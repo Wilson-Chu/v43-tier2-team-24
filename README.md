@@ -3,7 +3,7 @@
 ## Overview
 This app was created for the Chingu Voyage 43 group project. It gives users a clean space to organize their daily activities and improve their productivity, providing a variety of widgets like sticky notes and timers.
 
-LIVE LINK: https://chingu-voyages.github.io/v43-tier2-team-24/ 
+LIVE LINK: https://wilson-chu.github.io/v43-tier2-team-24/ 
 
 ## Features
 + Sidebar buttons can easily be rearranged and auto-sorted by dragging and dropping into preferred order (using dnd-kit)
@@ -14,7 +14,7 @@ LIVE LINK: https://chingu-voyages.github.io/v43-tier2-team-24/
 ## Running the project
 From your terminal:
 1. **Clone the repository to your local machine**
-``` git clone https://github.com/chingu-voyages/v43-tier2-team-24.git ```
+``` git clone https://github.com/Wilson-Chu/v43-tier2-team-24.git ```
 2. **Change the directory to the project** ``` cd v43-tier2-team-24 ```
 3. **Open the project in your editor** (If using Visual Studio Code) ``` code . ```
 4. **Install all dependencies by running** ``` npm install ```
