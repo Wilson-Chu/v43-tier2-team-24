@@ -16,8 +16,9 @@ From your terminal:
 1. **Clone the repository to your local machine**
 ``` git clone https://github.com/chingu-voyages/v43-tier2-team-24.git ```
 2. **Change the directory to the project** ``` cd v43-tier2-team-24 ```
-3. **Install all dependencies by running** ``` npm install ```
-4. **Start the client by running** ``` npm run dev ```
+3. **Open the project in your editor** (If using Visual Studio Code) ``` code . ```
+4. **Install all dependencies by running** ``` npm install ```
+5. **Start the client by running** ``` npm run dev ```
 
 The app will start running on http://localhost:3000
 
